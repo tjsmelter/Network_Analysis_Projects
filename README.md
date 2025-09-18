@@ -2,7 +2,7 @@
 
 Built a natural language processing (NLP) pipeline with spaCy to extract named entities from The Witcher book series and identify character mentions across more than 80,000 sentences.
 
-Constructed character relationship networks using NetworkX and co-occurrence windows, analyzing structural properties such as degree, betweenness, and closeness centrality to determine the most influential characters.
+Constructed character relationship networks using the networkx library and co-occurrence windows, analyzing structural properties such as degree, betweenness, and closeness centrality to determine the most influential characters.
 
 Applied community detection algorithms (Louvain method) to uncover narrative clusters and social groupings within the text.
 
