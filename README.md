@@ -8,7 +8,7 @@ Applied community detection algorithms (Louvain method) to uncover narrative clu
 
 Developed temporal network analysis to track the evolution of major characters’ importance across multiple books, visualizing changes with Matplotlib and PyVis interactive graphs.
 
-Project was built in conjunction with instruction provided by freeCodeCamp.org
+Project was built in conjunction with instruction provided by https://github.com/thu-vu92
 
 Community Detection Clusters   |   Temporal Network Analysis w/ Matplotlib & PyVis
 :-------------------------:|:-------------------------:
