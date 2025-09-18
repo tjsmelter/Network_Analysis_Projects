@@ -6,7 +6,7 @@ Constructed character relationship networks using NetworkX and co-occurrence win
 
 Applied community detection algorithms (Louvain method) to uncover narrative clusters and social groupings within the text.
 
-Developed temporal network analysis to track the evolution of major characters’ importance across multiple books, visualizing changes with Matplotlib and PyVis interactive graphs.
+Developed a temporal network analysis to track the evolution of major characters’ importance across multiple books, visualizing changes with Matplotlib and PyVis interactive graphs.
 
 Project was built in conjunction with instruction provided by https://github.com/thu-vu92
 
